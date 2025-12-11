@@ -2,7 +2,7 @@
 # Code for comparing Huffman's/iteratively selecting to a Binary Search algorithm.
 # The results: binary search performs better overall than eliminating the most probable answer with each guess. 
 #  However, offsetting the starting guess of the binary search algorithm improves the answer, because we eliminate more of the improbable answers that way. 
-#  Six 
+#  Six is the best starting index!
 
 import math
 import random
